@@ -1,4 +1,5 @@
 # Data-Science-Virtual-Experience-Programme
+# Task:1
 # British Airways Customer Feedback Analysis
 # Introduction
 This project aims to analyze customer feedback data for British Airways (BA) collected from the Skytrax website. As a data scientist at BA, the objective is to gather insights from customer reviews about the airline and present the findings in a clear and concise manner.
@@ -30,4 +31,46 @@ To get started with the project, ensure you have the necessary tools and depende
 # Presentation
 1.	Use the provided "PowerPoint Template" to create a slide summarizing your findings.
 2.	Include visualizations, metrics, and concise explanations to effectively communicate key points from your analysis.
+
+
+
+# Task:2
+# Customer Booking Predictive Model
+# Introduction
+In today's competitive landscape, being proactive in acquiring customers is crucial for airlines. Predictive models play a pivotal role in this endeavor by leveraging data to anticipate customer behaviors. This project focuses on exploring, preparing, and utilizing customer booking data to build a predictive model that can anticipate customers purchasing holidays. The quality of data and model interpretation are key aspects of this task.
+# Table of Contents
+•	Background
+•	Task Overview
+•	Getting Started
+•	Data Exploration and Preparation
+•	Model Training
+•	Model Evaluation and Interpretation
+•	Presentation
+•	Estimated Time
+# Background
+In the age of information, customer empowerment has reshaped the buying cycle. Airlines need to be proactive in customer acquisition by utilizing data and predictive models. This project aims to build a predictive model using customer booking data to anticipate holiday purchases.
+Task Overview
+# The main tasks involved in this project are:
+1.	Data Exploration and Preparation: Explore the provided dataset, understand its columns and basic statistics. Prepare the dataset for training a predictive model and consider creating new features for better model performance.
+2.	Model Training: Train a machine learning model, focusing on an algorithm that can provide insights into variable contributions, such as RandomForest.
+3.	Model Evaluation and Interpretation: Evaluate the model's performance through cross-validation and appropriate metrics. Create visualizations to interpret variable contributions.
+4.	Presentation: Summarize findings in a single PowerPoint slide using the provided template. Ensure clear communication of model results and insights.
+Getting Started
+To begin the project, make sure you have the required tools and dependencies in place. The "Getting Started" Jupyter Notebook in the Resources section provides an initial understanding of the dataset.
+# Data Exploration and Preparation
+1.	Explore the dataset using the "Getting Started" Jupyter Notebook.
+2.	Prepare the dataset for predictive modeling, considering feature engineering and data cleaning.
+# Model Training
+1.	Train a machine learning model to predict customer holiday bookings.
+2.	Use an algorithm that allows you to understand variable contributions, like RandomForest.
+Model Evaluation and Interpretation
+1.	Evaluate model performance using cross-validation and appropriate evaluation metrics.
+2.	Create visualizations to interpret how each variable contributes to the model's predictive power.
+# Presentation
+1.	Utilize the provided "PowerPoint Template" to create a slide summarizing your findings.
+2.	Clearly communicate the model's predictive ability and insights gained from variable contributions.
+Estimated Time
+The estimated time for completing this task is approximately 1 hour, depending on your learning style and familiarity with the tools.
+
+
 
